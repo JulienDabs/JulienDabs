@@ -1,15 +1,32 @@
-# {{ Hello.World!! }}
+# Hey  I'm Julien 
 ## Who am I?
-I'm Julien a Junior Web Developper. 6 months ago I didn't have a clue on what the Web Developpement is or what it does. Now it feels like a million years ago! 
-I'm currently being trained at [Ecole O'Clock](https://oclock.io/). In the first 3 months of the 6 months program we had a very intense training on the following languages: 
-  - HTML5
-  - CSS3
-  - PHP
-  - JS
-  - MySQL
+I'm Julien a Junior Web Developper. I have being trained at [Ecole O'Clock](https://oclock.io/). And this what we learned: 
 
-A well as how to understand the whole process, work in Pair Programming, understanding AGILE method and much more.
-## And now what?
-As part of the traning we've been asked to choose a framework to specialized. And I chose Symfony as I particulary loved work with PHP and the Backend. As the last step of the training we (a team of 4 to 5 Web Developper) are required to create a project from A to Z. 
+### Front
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VueJS](https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-The project will be about a fictive Tennis Club. We will have to create a web who allow to make reservation of a court, create new accounts and interact with an API.
+### Back
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+
+### DataBase
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Learning on
+![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+## Contact me
+[![EMAIL](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juli3n.web.dev@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliendabadie)
+[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ULI3N_WEB_DEV)
+
+
+
+
