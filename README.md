@@ -1,6 +1,8 @@
 # Hey  I'm Julien 
-## Who am I?
-I'm Julien a Junior Web Developper. I have being trained at [Ecole O'Clock](https://oclock.io/). And this is what I learned: 
+
+I'm a Junior Web Developper. I have being trained at [Ecole O'Clock](https://oclock.io/). 
+
+## This is what I learned: 
 
 ### IDE
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
