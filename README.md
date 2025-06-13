@@ -1,6 +1,6 @@
 # Hey  I'm Julien 
 
-I'm a Junior Sotfware Designer. I have being trained at [Ecole O'Clock](https://oclock.io/). 
+I'm a Junior Software Designer. I have being trained at [Ecole O'Clock](https://oclock.io/). 
 
 ## This is what I learned: 
 
